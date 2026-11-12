@@ -67,7 +67,19 @@ Técnico em Segurança do Trabalho na **BIC Amazônia (Manaus - AM)**, com mais 
 
 - **Tecnólogo em Análise e Desenvolvimento de Sistemas**, IFAM Campus Manaus Centro (em andamento)
 - **Técnico em Segurança do Trabalho**, BIC Amazônia (10+ anos na indústria)
-<!-- Adicione aqui suas certificações, ex.: - **Nome do curso**, instituição (ano) -->
+
+### 📜 Certificações
+
+**Concluídas**
+- IA com Foco em Copilot, FPFtech (60h)
+- Imersão IA, Alura
+- Google AI Fundamentals
+- Google AI for Brainstorming and Planning
+- Google AI for Research and Insights
+
+**Em andamento**
+- Certificado Profissional Google AI (trilha de 7 cursos)
+- IA sem Limites, AWS (6h)
 
 ---
 
