@@ -86,8 +86,9 @@ Técnico em Segurança do Trabalho na **BIC Amazônia (Manaus - AM)**, com mais 
 
 Aberto a conversas sobre IA na indústria, automação e oportunidades na área.
 
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-mmoura01-2DD4BF?style=flat-square)](https://mmoura01.github.io/portfolio-marcos-moura)
-[![Instagram](https://img.shields.io/badge/Instagram-@mu__moura-203a43?style=flat-square&logo=instagram)](https://instagram.com/mu_moura)
-<!-- Adicione LinkedIn e e-mail aqui -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos_Moura-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-uchoa-moura)
+[![Gmail](https://img.shields.io/badge/Gmail-marcosuchoa2007-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcosuchoa2007@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-2DD4BF?style=for-the-badge&logo=githubpages&logoColor=0f2027)](https://mmoura01.github.io/portfolio-marcos-moura)
+[![Instagram](https://img.shields.io/badge/Instagram-@mu__moura-203a43?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mu_moura)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="Rodapé" />
